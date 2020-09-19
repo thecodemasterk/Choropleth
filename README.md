@@ -1,0 +1,2 @@
+# Choropleth
+Spatial data analysis
